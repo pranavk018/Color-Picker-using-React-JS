@@ -1,1 +1,1 @@
-hello, this is new text in 'branch1' branch.
+hello, this is new text added in 'branch1' branch.
